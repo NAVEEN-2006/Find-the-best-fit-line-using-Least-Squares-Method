@@ -28,8 +28,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 x=np.array(eval(input()))
 y=np.array(eval(input()))
+
 x_mean=np.mean(x)
 y_mean=np.mean(y)
+
 print(x_mean)
 print(y_mean)
 num=0
@@ -50,6 +52,17 @@ print(m*3+c)
 ```
 
 ## Output:
+![image](https://github.com/user-attachments/assets/4e3dd4de-6547-4393-b377-b66bf64efb6f)
+
+
+![image](https://github.com/user-attachments/assets/bdc29f2f-e58f-4497-9a5f-4bc96c87e9a7)
+
+
+![image](https://github.com/user-attachments/assets/bd9d53c9-e3c0-4bbf-a936-16bb52700a66)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/5b1f5432-6dc3-4431-930f-af98ac8ffafb)
 
 
